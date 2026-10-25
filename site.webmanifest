@@ -1,0 +1,12 @@
+{
+  "description": "A short page about me.",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "570x570",
+      "type": "image/png"
+    }
+  ],
+  "name": "Profile",
+  "short_name": "timothyolivieri"
+}
