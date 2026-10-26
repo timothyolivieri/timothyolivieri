@@ -28,5 +28,15 @@
         "slug": "/contact",
         "title": "Contact",
         "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.about.us.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/about/us",
+        "title": "About Us",
+        "visibility": false
     }
 ]
