@@ -1,0 +1,10 @@
+{
+    "main": true,
+    "noindex": false,
+    "page": "page.contact.html",
+    "pages": false,
+    "popup": true,
+    "slug": "/contact",
+    "title": "Contact",
+    "visibility": false
+}
