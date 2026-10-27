@@ -8,5 +8,15 @@
         "slug": "/",
         "title": "Home",
         "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.about.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/about",
+        "title": "About",
+        "visibility": false
     }
 ]
