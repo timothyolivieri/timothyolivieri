@@ -2,31 +2,11 @@
     {
         "main": true,
         "noindex": false,
-        "page": "page.contact.html",
-        "pages": false,
-        "popup": true,
-        "slug": "/contact",
-        "title": "Contact",
-        "visibility": false
-    },
-    {
-        "main": true,
-        "noindex": false,
         "page": "page.about.html",
         "pages": false,
         "popup": true,
         "slug": "/about",
         "title": "About",
-        "visibility": false
-    },
-    {
-        "main": true,
-        "noindex": false,
-        "page": "page.html",
-        "pages": false,
-        "popup": true,
-        "slug": "/",
-        "title": "Home",
         "visibility": false
     }
 ]
