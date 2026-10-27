@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "description": "Discover how simple daily mindfulness habits can reduce stress, improve focus, and help you live a happier, healthier life.",
+        "image": "/raw/posts/small-habits-big-changes/image.jpeg",
+        "slug": "small-habits-big-changes",
+        "title": "Small Habits, Big Changes",
+        "category": " Mindfulness",
+        "tags": [
+            "mindfulness",
+            "mentalHealth",
+            "habits",
+            "productivity",
+            "wellness"
+        ]
+    }
+]
