@@ -1,0 +1,10 @@
+{
+    "main": true,
+    "noindex": false,
+    "page": "page.blog.html",
+    "pages": false,
+    "popup": true,
+    "slug": "/blog",
+    "title": "Blog",
+    "visibility": false
+}
