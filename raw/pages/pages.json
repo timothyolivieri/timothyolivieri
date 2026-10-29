@@ -38,5 +38,15 @@
         "slug": "/blog",
         "title": "Blog",
         "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.blog._.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/blog/*",
+        "title": "Article",
+        "visibility": false
     }
 ]
